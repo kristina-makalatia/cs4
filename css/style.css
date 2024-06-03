@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+
+.container {
+  width: 1400px;
+  background-color: lightblue;
+  /* margin-left: auto;
+    margin-right: auto; */
+  margin: 0 auto;
+}
+.left-block {
+  display: inline-block;
+  width: 671px;
+  vertical-align: top;
+
+  margin-right: 51px;
+}
+.right-block {
+  display: inline-block;
+  width: 678px;
+  vertical-align: top;
+}
+.grey-block {
+  width: 339px;
+  height: 81px;
+  background-color: #ececec;
+  /* padding-left: 27px;
+    padding-top: 29px;
+    padding-bottom: 29px; */
+  padding: 29px 0 29px 27px;
+}
+.grey-descr {
+  display: inline-block;
+  vertical-align: middle;
+}
+.grey-image {
+  vertical-align: middle;
+}
+.section-title {
+  font-family: "Yellowtail", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #7eb693;
+  font-size: 36px;
+}
+.title-new {
+  font-family: "Roboto-Black";
+  font-size: 50px;
+}
